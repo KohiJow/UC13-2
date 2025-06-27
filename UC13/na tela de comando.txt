@@ -1,0 +1,7 @@
+na tela de comando:
+
+npm install - para criar a pasta node_modules 
+npm run dev - para rodar a API
+
+https://hoppscotch.io/
+dataAircnc

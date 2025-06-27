@@ -1,0 +1,6 @@
+Modelo da API
+M odel
+V iew => Reactjs => React Native
+C ontroller
+MongoDB NoSQL, Collections
+Documentos -> JSON {prop:value}

@@ -1,0 +1,9 @@
+git status -> pra acompanhar o que tá fazendo
+git branch -> pra saber em qual branch está
+git branch dev -> pra criar um outra branch
+git checkout dev -> pra trocar de branch
+ps: normalmente quando cria um projeto no GitHub a branch principal é chamada de main
+
+git add .
+git commit -m "uma descrição do que foi feito"
+git push origin main
