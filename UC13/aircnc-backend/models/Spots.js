@@ -4,11 +4,11 @@ const SpotsSchema = new mongoose.Schema({
     thumbnail: String,
     company: String,
     price: Number,
-    techs: [Strings],
+    techs: [String], // Corrected 'Strings' to 'String'
     user: {
         type: mongoose.Schema.Types.ObjectId,
         ref: 'User'
     }
-})
+});
 
-module.exports = mongoose.model('Spots', SpotsSchema)
+module.exports = mongoose.model('Spots', SpotsSchema);
